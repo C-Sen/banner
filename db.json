@@ -1,0 +1,16 @@
+{
+    "status": "200",
+    "message": "success",
+    "banners": [
+        {
+            "campaign_id": 1,
+            "action_id": 1,
+            "content": "<img src=\"images/image1.png\">"
+        },
+        {
+            "campaign_id": 2,
+            "action_id": 1,
+            "content": "<img src=\"images/image2.png\">"
+        }
+    ]
+}
