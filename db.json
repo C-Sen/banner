@@ -1,14 +1,14 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "banners": [
+        {
+            "campaign_id": 1,
+            "action_id": 1,
+            "content": "<img src=\"images/image1.png\">"
+        },
+        {
+            "campaign_id": 2,
+            "action_id": 1,
+            "content": "<img src=\"images/image2.png\">"
+        }
+    ]
 }
