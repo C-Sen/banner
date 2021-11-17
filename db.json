@@ -1,6 +1,4 @@
 {
-    "status":200,
-    "message":"success",
     "banners": [
         {
             "campaign_id": 1,
